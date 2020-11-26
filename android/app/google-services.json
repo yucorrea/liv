@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58650609035",
+    "firebase_url": "https://livbook-f209c.firebaseio.com",
+    "project_id": "livbook-f209c",
+    "storage_bucket": "livbook-f209c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58650609035:android:cae8465dfdba10285f5b8e",
+        "android_client_info": {
+          "package_name": "com.liv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58650609035-lnsqidb9sofd2qhrobimk7147lfv20p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcdqfDE8E4ZS3onQf6ZwT2Z4QgizRAH6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58650609035-lnsqidb9sofd2qhrobimk7147lfv20p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
